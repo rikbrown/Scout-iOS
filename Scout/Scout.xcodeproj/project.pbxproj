@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5855361F1E5A56C600202D40 /* Scout-UI in Resources */ = {isa = PBXBuildFile; fileRef = 5855361E1E5A56C600202D40 /* Scout-UI */; };
+		583C89DA1E5A7BD500DE2C36 /* Scout-UI in Resources */ = {isa = PBXBuildFile; fileRef = 583C89D91E5A7BD500DE2C36 /* Scout-UI */; };
 		585536211E5A5BEE00202D40 /* ScoutVoiceRecognition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585536201E5A5BEE00202D40 /* ScoutVoiceRecognition.swift */; };
 		585536231E5A66D100202D40 /* ScoutRequester.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585536221E5A66D100202D40 /* ScoutRequester.swift */; };
 		585536251E5A686100202D40 /* ScoutAudioHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585536241E5A686100202D40 /* ScoutAudioHelper.swift */; };
@@ -39,7 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5855361E1E5A56C600202D40 /* Scout-UI */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Scout-UI"; path = "../../Personal/Scout-UI"; sourceTree = "<group>"; };
+		583C89D91E5A7BD500DE2C36 /* Scout-UI */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Scout-UI"; path = "../../../Personal/Scout-UI"; sourceTree = "<group>"; };
 		585536201E5A5BEE00202D40 /* ScoutVoiceRecognition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoutVoiceRecognition.swift; sourceTree = "<group>"; };
 		585536221E5A66D100202D40 /* ScoutRequester.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoutRequester.swift; sourceTree = "<group>"; };
 		585536241E5A686100202D40 /* ScoutAudioHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoutAudioHelper.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 				58E435241E49AAC900AC8D8E /* ScoutTests */,
 				58E4352F1E49AAC900AC8D8E /* ScoutUITests */,
 				58E4350E1E49AAC900AC8D8E /* Products */,
-				5855361E1E5A56C600202D40 /* Scout-UI */,
+				583C89D91E5A7BD500DE2C36 /* Scout-UI */,
 			);
 			sourceTree = "<group>";
 		};
@@ -249,7 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				58E4351B1E49AAC900AC8D8E /* LaunchScreen.storyboard in Resources */,
-				5855361F1E5A56C600202D40 /* Scout-UI in Resources */,
+				583C89DA1E5A7BD500DE2C36 /* Scout-UI in Resources */,
 				58E435181E49AAC900AC8D8E /* Assets.xcassets in Resources */,
 				58E435161E49AAC900AC8D8E /* Main.storyboard in Resources */,
 			);

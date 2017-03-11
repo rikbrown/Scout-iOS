@@ -9,7 +9,7 @@
 import Foundation
 
 class ScoutRequester {
-    let host = "http://192.168.1.4:5000"
+    let host = "http://192.168.1.200:5000"
     
     public func takeoff() {
         request(endpoint: "takeoff")
